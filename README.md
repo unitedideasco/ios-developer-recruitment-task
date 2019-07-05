@@ -12,4 +12,4 @@ Napisać prostą aplikację do sprawdzania prognozy pogody z wykorzystaniem jaki
 
 ## Założenia techniczne:
 
-- Rozwiązanie powinno zostać dostarczone jako kompletny projekt Xcode w postaci repozytorium git możliwego do sklonowania. Aplikacja powinna uruchamiać się na symulatorze oraz dowolnie wybranym modelu iPhone’a (minimalna wersja wersja systemu - iOS10). Aplikacja powinna być napisana w Objective-C
+- Rozwiązanie powinno zostać dostarczone jako kompletny projekt Xcode w postaci repozytorium git możliwego do sklonowania. Aplikacja powinna uruchamiać się na symulatorze oraz dowolnie wybranym modelu iPhone’a (minimalna wersja wersja systemu - iOS12). Aplikacja powinna być napisana w SWIFT lub Objective-C (w zależnośći od tego na jakie ogłoszenie aplikujesz)
